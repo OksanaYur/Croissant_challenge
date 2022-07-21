@@ -1,8 +1,8 @@
-h1 {
-  text-align: center;
-}
+h1,
 p {
   text-align: center;
+  color: blueviolet;
+  background-color: rgb(232, 203, 208);
 }
 .photo {
   display: block;
@@ -10,4 +10,7 @@ p {
 }
 .contact {
   text-align: center;
+}
+.links {
+    color: brown;
 }
